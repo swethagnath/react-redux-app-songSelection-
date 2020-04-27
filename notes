@@ -1,0 +1,5 @@
+ react-redux configutation
+ npm create-react-app songs
+ npm install --save redux react-redux
+ npm start
+ 
